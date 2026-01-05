@@ -41,5 +41,6 @@ Faktor paling signifikan yang ditemukan oleh model adalah **Gender (Sex)**, diik
 
 ---
 **Identitas Mahasiswa:**
-*   **Nama**: [Nama Anda]
-*   **NIM**: [NIM Anda]
+*   **Nama**: [Mohamad Taufik Wibowo]
+*   **NIM**: [231011400164]
+*   **Kelas**: [05 TPLE 004]
