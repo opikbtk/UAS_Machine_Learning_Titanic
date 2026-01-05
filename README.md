@@ -5,7 +5,7 @@ Proyek ini berisi implementasi algoritma **Decision Tree** untuk memprediksi kes
 
 ## Isi Repository
 1.  **Laporan**:
-    *   `Laporan_UAS.md` / `Laporan_UAS.pdf`: Laporan lengkap mencakup jawaban teori, metodologi, dan analisis hasil.
+    *   `Laporan UAS Machine Learning.pdf`: Laporan lengkap mencakup jawaban teori, metodologi, dan analisis hasil.
 2.  **Source Code**:
     *   `uas_titanic_model.ipynb`: **(Recommended)** Jupyter Notebook interaktif. Berisi kode, output, dan visualisasi dalam satu file.
     *   `uas_titanic_model.py`: Script Python standar jika ingin menjalankan via terminal.
